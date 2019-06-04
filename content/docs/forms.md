@@ -15,7 +15,7 @@ HTML form elements work a little bit differently from other DOM elements in Reac
 <form>
   <label>
     Name:
-    <input type="text" name="name" />
+    <input type="text" name="name" />hgfjhfgjj
   </label>
   <input type="submit" value="Submit" />
 </form>
